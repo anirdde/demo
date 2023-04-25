@@ -6,3 +6,4 @@ data:
   index.html: |
     Congratulations! <p>
     This is your second app deployed via ArgoCD!
+    This is a code change done after deploy
